@@ -90,9 +90,9 @@ A modern reimagining of Paul Preece's Desktop Tower Defense, written in Go using
 - [Go](https://golang.org/) - Programming language
 - Original pixel art and design
 
-- The original [Desktop Tower Defense](https://en.wikipedia.org/wiki/Desktop_Tower_Defense)
-
 # Overview of the original
+
+[Desktop Tower Defense](https://en.wikipedia.org/wiki/Desktop_Tower_Defense)
 
 Desktop Tower Defense is a Flash-based tower defense browser game created by Paul Preece in March 2007.
 
