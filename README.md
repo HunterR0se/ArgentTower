@@ -12,7 +12,9 @@ I am Hunter Rose and can be found on [X](https://x.com/HunterR0se). I've been wr
 
 Argent Tower is a strategic tower defense game where you must protect your territory from waves of increasingly difficult enemies. Place and upgrade towers tactically to create mazes and kill enemies before they reach the exit.
 
-## Grab the binary
+### Grab the binary
+
+I keep the latest compiled binary in the bin tree. Grab it here.
 
 [Argent Tower Linux](bin/argent)
 
