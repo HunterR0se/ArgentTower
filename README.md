@@ -12,12 +12,6 @@ I am Hunter Rose and can be found on [X](https://x.com/HunterR0se). I've been wr
 
 Argent Tower is a strategic tower defense game where you must protect your territory from waves of increasingly difficult enemies. Place and upgrade towers tactically to create mazes and kill enemies before they reach the exit.
 
-### Grab the binary
-
-I keep the latest compiled binary in the bin tree. Grab it here.
-
-[Argent Tower Linux](bin/argent)
-
 ### Features
 
 - 6 unique tower types each with different abilities:
@@ -44,20 +38,6 @@ I keep the latest compiled binary in the bin tree. Grab it here.
     - Wave-based progression system
     - Resource management with points/money
 
-## Building & Running
-
-The game is completely self-contained and requires no external assets. To build:
-
-```bash
-go build -o bin/argent
-```
-
-Then simply run the binary:
-
-```bash
-./bin/argent
-```
-
 ## How to Play
 
 1. Start in building mode - place towers strategically to create a maze
@@ -81,6 +61,26 @@ Then simply run the binary:
 - Protect your towers from Snake and Ghoul attacks
 - Don't block all paths - enemies must have a way through
 - Start with basic Dart towers and upgrade strategically
+
+### Grab the binary
+
+I keep the latest compiled binary in the bin tree. Grab it here.
+
+[Argent Tower Linux](bin/argent)
+
+## Building & Running
+
+The game is completely self-contained and requires no external assets. To build:
+
+```bash
+go build -o bin/argent
+```
+
+Then simply run the binary:
+
+```bash
+./bin/argent
+```
 
 ## Credits
 
