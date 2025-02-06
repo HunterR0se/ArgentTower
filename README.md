@@ -4,7 +4,7 @@ When I was younger, I fell in love with Desktop Tower Defense and I've always wa
 
 ## About the Author
 
-I am Hunter Rose and can be found on [X](https://x.com/HunterR0se). I've been writing code for a few decades and recently decided to complete all the projects I started and never finished. My code repository is [on github](https://github.com/HunterR0se) and includes some AI work, some Rust code, a lot of Go code, and even a Bitcoin Key Generation system that uses CUDA acceleration ([Grendel Bitcoin Finder](https://github.com/HunterR0se/Grendel)).
+I am Hunter Rose and can be found on [X](https://x.com/HunterR0se). I've been writing code for a few decades and recently decided to complete all the projects I started and never finished. My code repository is [on github](https://github.com/HunterR0se) and includes some AI work, some Rust code, a lot of Go code, and even a Bitcoin Key Generation system that uses CUDA acceleration ([Grendel: Bitcoin Address Finder](https://github.com/HunterR0se/Grendel)).
 
 ## About the Game
 
